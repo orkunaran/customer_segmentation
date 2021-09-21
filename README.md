@@ -1,2 +1,2 @@
-# customer_segmentation
-Customer Segmentation with K-prototypes Clustering
+# Customer Segmentation with Detailed EDA and K-Prototypes Clustering 
+
