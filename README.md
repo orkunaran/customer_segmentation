@@ -9,7 +9,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/customer_segmentation">
  </a>
  
- <img src = 'https://badges.pufler.dev/visits/orkunaran/customer_segmentationn'>
+ <img src = 'https://badges.pufler.dev/visits/orkunaran/customer_segmentation'>
   
  <img src = 'https://www.segmentify.com/wp-content/uploads/2021/08/Top-Customer-Segmentation-Examples-every-Marketer-Needs-to-Know.png'>
 
